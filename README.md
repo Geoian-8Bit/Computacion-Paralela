@@ -7,3 +7,4 @@ En las distintas prácticas se incluye el código del programa paralelizado y un
 A set of practices in which code is optimized and modified for parallelization, allowing execution on multiple processors and achieving reduced execution time.
 
 Each practice includes the parallelized program code and a document explaining the modifications made and the reasons behind them.
+
